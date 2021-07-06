@@ -29,7 +29,8 @@ Every time you run the script it will either kill the spooler if it's on, or sta
 
 ## Known issues
 
-> Q: I copied the script and Windows complains that the script is not signed.
+> Q: I copied the script and tried to run but Windows complains that the script is not signed.
+
 A: Right click on the script, choose "edit", then when PowerShell ISE opens, click on the disk icon to save. At this point Windows should have signed it or added to the trusted ones for your own machine.
 
 ## Acknowledgements
