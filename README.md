@@ -7,7 +7,7 @@ It is no solution to the problem and to activate it one needs to lower the power
   - Use at your own risk.
   - Remember to reset powershell security after M$ releases a good patch
 
-## Prerequisite
+## Prerequisites
 
 1. In the search bar write "PowerShell"
 2. Right click on the powershell icon and select "Run as Administrator" 
@@ -25,7 +25,7 @@ Every time you run the script it will either kill the spooler if it's on, or sta
 2. right click and select "Run with PowerShell"
 3. Accept the administrative rights elevation (services can only be managed by admins) 
 4. Read the status of the service, push any key to exit the script
-5. Run again to trigger the service
+5. Run again to trigger the service on or off
 
 ## Acknowledgements
 
