@@ -27,6 +27,11 @@ Every time you run the script it will either kill the spooler if it's on, or sta
 4. Read the status of the service, push any key to exit the script
 5. Run again to trigger the service on or off
 
+## Known issues
+
+> Q: I copied the script and Windows complains that the script is not signed.
+A: Right click on the script, choose "edit", then when PowerShell ISE opens, click on the disk icon to save. At this point Windows should have signed it or added to the trusted ones for your own machine.
+
 ## Acknowledgements
 
 This is my first powershell script. I took inspiration from:
